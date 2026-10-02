@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<properties>
+
+    <!-- =================================================
+         TIME FORMAT
+
+         0 = Follow Watch Settings
+         1 = 12 Hour
+         2 = 24 Hour
+         ================================================= -->
+
+    <property
+        id="timeFormat"
+        type="number"
+    >0</property>
+
+
+    <!-- =================================================
+         STEP GOAL
+
+         Default = 10,000 Steps
+         ================================================= -->
+
+    <property
+        id="stepGoal"
+        type="number"
+    >10000</property>
+
+</properties>

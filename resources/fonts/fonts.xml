@@ -1,0 +1,20 @@
+<resources>
+    <font
+        id="TimeFont"
+        filename="CinzelBlack.fnt"
+        antialias="true"
+    />
+
+     <font
+        id="DataFont"
+        filename="MontserratBlack.fnt"
+        antialias="true"
+    />
+
+    <font
+        id="HeaderFont"
+        filename="MontserratHeader.fnt"
+        antialias="true"
+    />
+
+</resources>

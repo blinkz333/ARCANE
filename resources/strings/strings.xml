@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<strings>
+
+    <!-- =================================================
+         APP
+         ================================================= -->
+
+    <string id="AppName">
+        ARCANE
+    </string>
+
+
+    <!-- =================================================
+         TIME DISPLAY
+         ================================================= -->
+
+    <string id="TimeFormatTitle">
+        Time Display
+    </string>
+
+    <string id="TimeFormatSystem">
+        Follow Watch Settings
+    </string>
+
+    <string id="TimeFormat12Hour">
+        12 Hour
+    </string>
+
+    <string id="TimeFormat24Hour">
+        24 Hour
+    </string>
+
+
+    <!-- =================================================
+         STEP GOAL
+         ================================================= -->
+
+    <string id="StepGoalTitle">
+        Daily Step Goal
+    </string>
+
+</strings>

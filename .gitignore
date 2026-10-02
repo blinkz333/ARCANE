@@ -1,0 +1,41 @@
+# ============================================
+# ARCANE - Garmin Connect IQ
+# ============================================
+
+# Connect IQ build output
+bin/
+build/
+sideload/
+
+# Device-specific simulator/build output
+970/
+venu/
+
+# Compiled Connect IQ files
+*.prg
+*.iq
+*.debug.xml
+
+# Monkey C generated files
+*.mbo
+*.mir
+*.o
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+*~
+
+# VS Code local settings
+.vscode/
+*.code-workspace
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+ehthumbs.db
